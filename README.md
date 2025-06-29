@@ -53,7 +53,7 @@ Built entirely with **HTML, CSS, and JavaScript** — no frameworks required!
 
 ## 🔗 Live Demo
 
-Enchaned Password Strength Checker(https://enchaced-password-strength-checker.netlify.app/)
+[Enchaned Password Strength Checker](https://enchaced-password-strength-checker.netlify.app/)
 
 ---
 
@@ -86,5 +86,5 @@ MIT License
 👤 **Raunak Jain**  
 - Aspiring Cybersecurity Engineer  
 - Passionate about building secure web applications  
-- Connect with me on [LinkedIn](https://www.linkedin.com/raunak-jain-cybersecurity)
+- Connect with me on [LinkedIn](www.linkedin.com/raunak-jain-cybersecurity)
 
