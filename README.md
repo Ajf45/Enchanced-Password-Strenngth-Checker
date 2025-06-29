@@ -86,5 +86,5 @@ MIT License
 👤 **Raunak Jain**  
 - Aspiring Cybersecurity Engineer  
 - Passionate about building secure web applications  
-- Connect with me on [LinkedIn](www.linkedin.com/raunak-jain-cybersecurity)
+- Connect with me on raunaksololev12@gmail.com
 
